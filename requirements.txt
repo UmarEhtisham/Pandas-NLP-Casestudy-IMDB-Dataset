@@ -1,0 +1,8 @@
+numpy
+pandas
+contractions
+nltk
+seaborn
+wordcloud
+matplotlib
+scikit-learn
